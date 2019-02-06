@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Original dataset
+api/models/data/books.csv
+api/models/data/ratings.csv
+api/models/data/tags.csv
+api/models/data/book_tags.csv
+api/models/data/to_read.csv
