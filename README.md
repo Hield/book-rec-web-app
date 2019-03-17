@@ -15,3 +15,7 @@ A study of how to build a book recommender from the ground up. The notebooks in 
 
 #### Evaluation
 * Rank and Relevance in Novelty and Diversity Metrics for Recommender Systems by Saúl Vargas and Pablo Castells ([Link](https://dl.acm.org/citation.cfm?id=2043955))
+
+## Websites
+
+* IMDb Ratings FAQ ([Link](https://help.imdb.com/article/imdb/track-movies-tv/faq-for-imdb-ratings/G67Y87TFYYP6TWAV#))
