@@ -18,6 +18,8 @@ A study of how to build a book recommender from the ground up. The notebooks in 
 
 * Being accurate is not enough: how accuracy metrics have hurt recommender systems ([Link](https://grouplens.org/site-content/uploads/accurate-CHI-20061.pdf))
 
+* Performance of Recommender Algorithms on Top-N Recommendation Tasks ([Link](https://dl.acm.org/citation.cfm?id=1864721))
+
 ## Websites
 
 * IMDb Ratings FAQ ([Link](https://help.imdb.com/article/imdb/track-movies-tv/faq-for-imdb-ratings/G67Y87TFYYP6TWAV#))
