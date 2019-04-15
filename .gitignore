@@ -109,3 +109,6 @@ api/models/data/ratings.csv
 api/models/data/tags.csv
 api/models/data/book_tags.csv
 api/models/data/to_read.csv
+
+# Large feather file
+api/models/data/book_profiles
