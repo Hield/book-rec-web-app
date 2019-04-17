@@ -20,6 +20,8 @@ A study of how to build a book recommender from the ground up. The notebooks in 
 
 * Performance of Recommender Algorithms on Top-N Recommendation Tasks ([Link](https://dl.acm.org/citation.cfm?id=1864721))
 
+* Solving the apparent diversity-accuracy dilemma of recommender systems ([Link](https://arxiv.org/pdf/0808.2670.pdf))
+
 ## Websites
 
 * IMDb Ratings FAQ ([Link](https://help.imdb.com/article/imdb/track-movies-tv/faq-for-imdb-ratings/G67Y87TFYYP6TWAV#))
